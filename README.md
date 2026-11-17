@@ -1,6 +1,6 @@
 # Ary Ribeiro
 
-**AWS Solutions Architect — 7x AWS Certified | 20+ years in IT**
+**AWS Solutions Architect — 8x AWS Certified | 20+ years in IT**
 
 I architect, build and operate cloud solutions end to end: serverless architectures on AWS, web applications in Next.js/TypeScript and Python, and developer tooling. Everything featured below is **live in production** — not tutorial code.
 
