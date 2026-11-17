@@ -38,4 +38,4 @@ MBA in IT Governance · Postgraduate degree in AI · M.Sc. in progress (Educatio
 
 ---
 
-🇧🇷 **Arquiteto de Soluções AWS, 7x certificado AWS, +20 anos de TI, praticante de Vibe Coding.** Todos os projetos em destaque acima estão em produção, com usuários reais. Vamos conversar? Me encontre no [LinkedIn](https://www.linkedin.com/in/aryribeiro).
+🇧🇷 **Arquiteto de Soluções AWS, 8x certificado AWS, +20 anos de TI, praticante de Vibe Coding.** Todos os projetos em destaque acima estão em produção, com usuários reais. Vamos conversar? Me encontre no [LinkedIn](https://www.linkedin.com/in/aryribeiro).
