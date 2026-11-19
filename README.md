@@ -22,7 +22,7 @@ I architect, build and operate cloud solutions end to end: serverless architectu
 
 ## 🛠️ Stack
 
-- **Cloud:** AWS — 7x certified. CloudFormation, CDK, Lambda, Bedrock, Amazon Connect, S3, DynamoDB
+- **Cloud:** AWS — 8x certified. CloudFormation, CDK, Lambda, Bedrock, Amazon Connect, S3, DynamoDB
 - **Architecture:** Amazon Connect contact-center solutions and 150+ AWS resources provisioned via CDK/CloudFormation *(private client work)*
 - **Frontend:** TypeScript, React, Next.js, Three.js, Tailwind CSS
 - **Backend:** Python (Streamlit), Node.js, Rust (Axum), PHP/WordPress
